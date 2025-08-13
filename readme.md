@@ -1,4 +1,4 @@
-# Cyber — Tech Shop (meyoro.com)
+u# Cyber — Tech Shop (meyoro.com)
 
 This repository contains the WordPress code for **Cyber**, a modern tech e-commerce site for gadgets, laptops, phones, PC parts, and accessories.  
 **Live site:** https://meyoro.com
@@ -17,9 +17,8 @@ This repository contains the WordPress code for **Cyber**, a modern tech e-comme
 
 ---
 
-## Getting Started (Developers)
+## Clone
 
-1. **Clone**
    ```bash
    git clone https://github.com/Perfee123/Cyber-wordpress.git
    cd REPO_NAME
