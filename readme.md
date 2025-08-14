@@ -17,7 +17,7 @@ This repository contains the WordPress code for **Cyber**, a modern tech e-comme
 
 ---
 
-## Clone
+## Clone this repo
 
    ```bash
    git clone https://github.com/Perfee123/Cyber-wordpress.git
